@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app./n
+Describe any challenges encountered while building the app.\
 Being new to IOS development,learning the swift and using xcode for IOS development had been a challenge for me. 
 
 ## License
