@@ -21,6 +21,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func onTap(_ sender: Any) {
+        view.endEditing(true)
     }
     
     @IBAction func calculateTip(_ sender: Any) {
