@@ -35,8 +35,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.\
-Markup: *Learning Swift with no prior knowledge
-        *Changing textfield's width to ensure total amount fits in text field. 
+- Learning Swift with no prior knowledge
+- Changing textfield's width to ensure total amount fits in text field. 
+- Learning about the different keyboard handling
     
       
 
