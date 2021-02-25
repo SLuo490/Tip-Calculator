@@ -4,8 +4,6 @@
 
 Submitted by: **Shi Tao Luo**
 
-Time spent: **3** hours spent in total
-
 ## User Stories
 
 The following **required** functionality is complete:
